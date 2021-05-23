@@ -1,0 +1,42 @@
+body{
+    font: normal 15pt helvetica;
+    margin-top: 0;  
+}
+header{
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+}
+div#game{
+    background: black;
+    color: white;
+    border-radius: 5px;
+    width: 600px;
+    padding: 10px;
+    margin:auto;
+    
+}
+select{
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    overflow: hidden;
+    font: 12pt arial
+}
+input{
+    margin-top: 20px;
+    height: 25px;
+    width: 200px;
+    font: 12pt arial
+}
+button{
+    margin-top: 30px;
+    display: block;
+    text-align: center;
+    background-color: rgb(13, 110, 253);
+    border-color:  rgb(13, 110, 253);
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+    color: white;   
+}
